@@ -26,7 +26,7 @@ These instructions will help you set up and run the project on your local device
 1. Clone the Repository:
 
    ```bash
-   git clone https://your-repo-url.git
+   git clone git@github.com:adlaz89/file_transfer.git
    cd your-repo-directory/server
    ```
 
