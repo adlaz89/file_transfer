@@ -21,14 +21,6 @@ These instructions will help you set up and run the project on your local device
 
 ### Server Setup on Raspberry Pi
 
-#### Dependencies
-
-Install FastAPI and Uvicorn to serve the API:
-
-```bash
-pip install fastapi uvicorn
-```
-
 #### Installation
 
 1. Clone the Repository:
